@@ -5,7 +5,6 @@ This Library Management System is a Java-based application that allows users to 
 maintain membership details using an Object-Oriented Programming (OOP) approach with a graphical user interface (GUI).
 
 Overview:-
-
 This Library Management System is a Java-based application that allows users to manage books, check out books, and
 maintain membership details using an Object-Oriented Programming (OOP) approach with a graphical user interface (GUI).
 
