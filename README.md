@@ -8,7 +8,7 @@ Overview:-
 This Library Management System is a Java-based application that allows users to manage books, check out books, and
 maintain membership details using an Object-Oriented Programming (OOP) approach with a graphical user interface (GUI).
 
-#Features:-
+Features:-
 Book Management: Users can add different types of books (Fictional, Educational, Horror, and Religious).
 Checkout Process: Members can check out books and receive a receipt.
 Membership Management: The system maintains a list of members who can check out books.
